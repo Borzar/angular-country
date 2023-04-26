@@ -1,27 +1,21 @@
-# AngularCountryApp
+# Angular Country App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+1. App para visualizar la población de distintos países y capitales
 
-## Development server
+2. Proyecto para fines educativos en Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+3. Link del proyecto https://main.dwv6elt77tyn8.amplifyapp.com/countries/by-country
 
-## Code scaffolding
+4. Curso de Fernando Herrera
+  
+  
+# Screenshots
+![image](https://user-images.githubusercontent.com/87547769/234691793-a6e6f420-0c7c-4c59-a077-11effa88c08e.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://user-images.githubusercontent.com/87547769/234691667-25b65450-fc5c-4b17-8a37-a31bdd80fd78.png)
 
-## Build
+![image](https://user-images.githubusercontent.com/87547769/234689986-bed6eb41-a24d-4b96-9193-008829f39ef2.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://user-images.githubusercontent.com/87547769/234689883-82989b65-f1b2-4181-af8a-c9cdae562cde.png)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
